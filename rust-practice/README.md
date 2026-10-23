@@ -1,0 +1,1 @@
+Small projects and stuff I've made by following the book (https://doc.rust-lang.org/stable/book/)
